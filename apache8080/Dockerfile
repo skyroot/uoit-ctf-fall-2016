@@ -7,7 +7,7 @@
 # - mysql running as root as well with \! enabled
 
 FROM ubuntu:14.04
-MAINTAINER Garrett Hayes <garrett.hayes@uoit.ca>
+MAINTAINER G Hayes
 
 RUN echo "America/Toronto" > /etc/timezone
 RUN dpkg-reconfigure -f noninteractive tzdata
