@@ -1,0 +1,1 @@
+cmd_/root/Diamorphine/diamorphine.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-96-generic/scripts/module-common.lds --build-id  -o /root/Diamorphine/diamorphine.ko /root/Diamorphine/diamorphine.o /root/Diamorphine/diamorphine.mod.o
