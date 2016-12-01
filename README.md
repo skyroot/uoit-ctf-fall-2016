@@ -18,6 +18,11 @@ Services
 - Apache (alt) on port 8080
 
 
+Vulnerabilities
+--
+See each sub folder's Dockerfile for more information about what is vulnerable for that specific service. 
+
+
 Run
 --
 
